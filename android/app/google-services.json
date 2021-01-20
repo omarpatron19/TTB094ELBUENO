@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175663946328",
+    "project_id": "pulseras-f8e4a",
+    "storage_bucket": "pulseras-f8e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175663946328:android:4e374711b5b966d3e6882d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_azure_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175663946328-27ec7ho87rbj1b98v02aagev5s3o0kpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3tM6trEeLzjibfoDkoR5JXgoeRhpg7oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175663946328-27ec7ho87rbj1b98v02aagev5s3o0kpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
